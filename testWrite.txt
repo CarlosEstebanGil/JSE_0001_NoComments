@@ -1,0 +1,1 @@
+Hola mi nombre es carlitosy esta es 	una prueba para ver si leo bien byte a byte este file por mas que sea de texto plano y que seriamejor leerlo con reader pero lo uso tmb en mi ejemplo de lectura con inputfilereader
